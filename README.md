@@ -11,3 +11,4 @@ Determine el Algoritmo para solucionar este problema.
 
  1.  Para la solución de este problema se determinó la existencia de dos extremo; **izquierda y derecha**, entendiendo izquierda como punto de **origen** y derecha como punto **objetivo**.
  2. El orden de predación está dado por; **Lobo>Oveja>Arbusto**
+![Imagen flujo](https://docs.google.com/drawings/d/1pjRka87L08RPUXYde1NUhTCjuWHb75VY6v5twz_M1-g/edit?usp=sharing)
