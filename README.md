@@ -1,4 +1,4 @@
-## Tarea Big Data - Algoritmo
+# Tarea Big Data - Algoritmo
 
 El siguiente repositorio tiene por finalidad, exponer el desarrollo para caso planteado en clases.
 Para ello  se plantea el siguiente caso:
@@ -7,7 +7,7 @@ Para ello  se plantea el siguiente caso:
 
 Determine el Algoritmo para solucionar este problema.
 
-### Solución
+## Solución
 
 <ol>
 <li>Para la solución de este problema se determinó la existencia de dos extremo; izquierda y derecha, entendiendo izquierda como punto de origen y derecha como punto objetivo.
