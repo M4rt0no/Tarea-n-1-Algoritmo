@@ -1,6 +1,6 @@
 ## Tarea Big Data - Algoritmo
 
-El siguiente Git tiene por finalidad, exponer el desarrollo para caso planteado en clases.
+El siguiente repositorio tiene por finalidad, exponer el desarrollo para caso planteado en clases.
 Para ello  se plantea el siguiente caso:
 
 >Un granjero compró tres objetos; una oveja, un lobo y un arbusto. Este granjero se encuentra en un gran dilema, ya que para poder llevar los objetos a casa  debe cruzar un río, y para cruzar y llevar sus objetos a casa, sólo puede subir un objeto a a la vez. Así, los objetos pueden devorarse en un orden *Lobo>Oveja>Arbusto* ~~(pobre arbusto, no se devora a nadie~~).
