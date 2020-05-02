@@ -10,7 +10,7 @@ Determine el Algoritmo para solucionar este problema.
 ### Solución
 
 <ol>
-<li>Para la solución de este problema se determinó la existencia de dos extremo; izquierda y derecha, entendiendo izquierda como punto de origen y derecha como punto objetivo
-<li>El orden de predación está dado por; Lobo>Oveja>Arbusto
+<li>Para la solución de este problema se determinó la existencia de dos extremo; izquierda y derecha, entendiendo izquierda como punto de origen y derecha como punto objetivo.
+<li>El orden de predación está dado por; Lobo>Oveja>Arbusto.
 
 [*Solución de Tarea*](https://drive.google.com/open?id=1pjRka87L08RPUXYde1NUhTCjuWHb75VY6v5twz_M1-g)
